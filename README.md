@@ -1,5 +1,6 @@
 # DebXFCE-MacXFCE
 This script will convert an installed Debian 12 (Bookworm) XFCE desktop into a Debian MacOS-Style XFCE desktop.
+
 See the README-ME-FIRST.TXT file.
 
 Enjoy! 
